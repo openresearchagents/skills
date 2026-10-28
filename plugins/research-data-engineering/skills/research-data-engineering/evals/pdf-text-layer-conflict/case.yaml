@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: pdf-text-layer-conflict
+expected_outcome: |
+  table2.csv holds the 15 region-year values as they appear on the rendered page. The run notices that the PDF text layer contains stale values under two corrected cells (Central 2024, East 2023), resolves them using the rendered page and the totals, and tells the user.
+context:
+  scaffold_script: place-files.sh

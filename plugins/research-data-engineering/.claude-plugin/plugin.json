@@ -1,0 +1,12 @@
+{
+  "name": "research-data-engineering",
+  "description": "Build and validate research datasets with an agent: provenance, PDF extraction, publication dates, and keeping protected records out of the agent's context. Includes a public-health and surveillance data module.",
+  "version": "0.4.0",
+  "license": "MIT",
+  "author": {
+    "name": "open-research-agents",
+    "url": "https://github.com/openresearchagents"
+  },
+  "homepage": "https://github.com/openresearchagents/skills",
+  "repository": "https://github.com/openresearchagents/skills"
+}

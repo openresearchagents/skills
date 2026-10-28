@@ -1,0 +1,301 @@
+student_id,student_name,date_of_birth,school,grade,incident_date,narrative
+S549349,Noah Chen,2010-08-20,Hillcrest MS,9,2025-01-11,Student Noah was reported for repeatedly harassing a classmate in the library.
+S216796,Sofia Martinez,2011-12-27,Valley HS,12,2025-03-04,Student Sofia refused repeated instructions from staff in the east hallway.
+S347777,Liam Kowalski,2011-02-10,Oak Park HS,7,2025-05-13,Student Liam was reported for repeatedly harassing a classmate in the east hallway.
+S594167,Mateo Haddad,2011-12-04,Hillcrest MS,8,2025-04-23,Student Mateo was reported for repeatedly harassing a classmate in the east hallway.
+S632435,Mateo Okafor,2010-03-16,Oak Park HS,12,2025-06-27,Student Mateo was reported for repeatedly harassing a classmate in the cafeteria.
+S349430,Zoe Patel,2008-01-27,Oak Park HS,8,2025-03-07,Student Zoe refused repeated instructions from staff in the cafeteria.
+S281994,Zoe Kowalski,2010-11-27,Hillcrest MS,10,2025-01-05,Student Zoe was involved in a physical altercation with another student near the gym.
+S522016,Liam Okafor,2009-11-17,Oak Park HS,11,2025-03-25,Student Liam refused repeated instructions from staff in the cafeteria.
+S996791,Mia Chen,2008-06-23,Oak Park HS,11,2025-01-14,Student Mia was involved in a physical altercation with another student near the cafeteria.
+S629093,Noah Haddad,2008-04-26,Hillcrest MS,8,2025-01-21,Student Noah was involved in a physical altercation with another student near the cafeteria.
+S855211,Liam Martinez,2008-06-12,Hillcrest MS,10,2025-05-27,Student Liam was involved in a physical altercation with another student near the cafeteria.
+S638552,Mateo Martinez,2011-11-20,Hillcrest MS,8,2025-05-15,Student Mateo was involved in a physical altercation with another student near the cafeteria.
+S116165,Ethan Martinez,2009-04-26,Oak Park HS,10,2025-03-08,Student Ethan refused repeated instructions from staff in the library.
+S383664,Mateo Chen,2009-04-11,Oak Park HS,8,2025-06-14,Student Mateo was involved in a physical altercation with another student near the gym.
+S382887,Mateo Patel,2011-09-24,Hillcrest MS,6,2025-01-15,Student Mateo was reported for repeatedly harassing a classmate in the east hallway.
+S860701,Mateo Chen,2009-09-08,Valley HS,6,2025-04-25,Student Mateo was involved in a physical altercation with another student near the parking lot.
+S934751,Mateo Haddad,2009-02-16,Valley HS,7,2025-01-18,Student Mateo refused repeated instructions from staff in the east hallway.
+S905227,Liam Haddad,2008-10-15,Hillcrest MS,6,2025-03-18,Student Liam refused repeated instructions from staff in the cafeteria.
+S229613,Sofia Lee,2011-03-24,Valley HS,11,2025-01-18,Student Sofia was involved in a physical altercation with another student near the library.
+S243773,Mia Kowalski,2008-06-15,Hillcrest MS,7,2025-04-10,Student Mia was involved in a physical altercation with another student near the gym.
+S203713,Ava Martinez,2011-07-07,Valley HS,7,2025-02-14,Student Ava refused repeated instructions from staff in the parking lot.
+S217592,Noah Okafor,2008-04-25,Valley HS,6,2025-06-16,Student Noah was involved in a physical altercation with another student near the cafeteria.
+S605351,Ava Martinez,2010-12-11,Oak Park HS,8,2025-05-23,Student Ava was reported for repeatedly harassing a classmate in the cafeteria.
+S715036,Ethan Haddad,2009-02-21,Valley HS,11,2025-01-10,Student Ethan was reported for repeatedly harassing a classmate in the library.
+S824164,Sofia Kowalski,2011-10-18,Hillcrest MS,6,2025-05-10,Student Sofia refused repeated instructions from staff in the gym.
+S451350,Ava Chen,2009-06-16,Hillcrest MS,9,2025-04-19,Student Ava was involved in a physical altercation with another student near the parking lot.
+S660310,Ava Chen,2009-05-26,Oak Park HS,8,2025-02-04,Student Ava was reported for repeatedly harassing a classmate in the parking lot.
+S597915,Ethan Patel,2010-09-21,Valley HS,8,2025-02-09,Student Ethan refused repeated instructions from staff in the library.
+S392430,Noah Martinez,2008-07-21,Hillcrest MS,9,2025-01-16,Student Noah refused repeated instructions from staff in the parking lot.
+S673269,Zoe Haddad,2010-11-19,Oak Park HS,6,2025-02-10,Student Zoe was found using a vape device in the parking lot.
+S774859,Zoe Okafor,2008-05-06,Hillcrest MS,10,2025-06-05,Student Zoe was found using a vape device in the parking lot.
+S603637,Ethan Kowalski,2008-10-06,Valley HS,12,2025-04-08,Student Ethan refused repeated instructions from staff in the cafeteria.
+S833142,Mia Rivera,2008-09-18,Oak Park HS,9,2025-03-12,Student Mia was reported for repeatedly harassing a classmate in the library.
+S888129,Sofia Martinez,2011-05-24,Hillcrest MS,11,2025-04-01,Student Sofia refused repeated instructions from staff in the east hallway.
+S866825,Liam Patel,2011-02-21,Valley HS,7,2025-03-08,Student Liam was found using a vape device in the east hallway.
+S220716,Noah Patel,2011-07-08,Oak Park HS,8,2025-02-25,Student Noah was involved in a physical altercation with another student near the cafeteria.
+S513815,Mateo Martinez,2008-12-12,Hillcrest MS,11,2025-06-05,Student Mateo was reported for repeatedly harassing a classmate in the east hallway.
+S476685,Mateo Martinez,2008-03-24,Oak Park HS,12,2025-04-04,Student Mateo was reported for repeatedly harassing a classmate in the gym.
+S880278,Mia Okafor,2008-10-20,Valley HS,10,2025-03-15,Student Mia was involved in a physical altercation with another student near the parking lot.
+S171633,Liam Lee,2011-02-06,Valley HS,11,2025-04-21,Student Liam was reported for repeatedly harassing a classmate in the cafeteria.
+S297515,Ethan Martinez,2011-05-21,Oak Park HS,10,2025-04-24,Student Ethan was involved in a physical altercation with another student near the cafeteria.
+S506826,Ethan Martinez,2011-11-02,Oak Park HS,7,2025-03-15,Student Ethan refused repeated instructions from staff in the library.
+S465952,Mia Lee,2011-09-19,Valley HS,6,2025-01-09,Student Mia was found using a vape device in the east hallway.
+S697017,Zoe Martinez,2008-10-16,Oak Park HS,9,2025-03-22,Student Zoe was involved in a physical altercation with another student near the cafeteria.
+S883332,Noah Lee,2010-12-08,Valley HS,6,2025-05-02,Student Noah was involved in a physical altercation with another student near the gym.
+S362543,Mia Chen,2008-09-06,Hillcrest MS,8,2025-05-20,Student Mia refused repeated instructions from staff in the east hallway.
+S970864,Ava Patel,2011-02-07,Valley HS,7,2025-01-06,Student Ava refused repeated instructions from staff in the library.
+S398769,Ethan Patel,2010-03-02,Valley HS,9,2025-03-13,Student Ethan refused repeated instructions from staff in the cafeteria.
+S452171,Zoe Martinez,2011-07-06,Valley HS,10,2025-06-15,Student Zoe was found using a vape device in the library.
+S819722,Mia Lee,2011-06-26,Valley HS,10,2025-03-16,Student Mia was reported for repeatedly harassing a classmate in the gym.
+S818939,Sofia Martinez,2011-03-01,Hillcrest MS,11,2025-03-08,Student Sofia was involved in a physical altercation with another student near the parking lot.
+S427719,Sofia Patel,2011-08-13,Hillcrest MS,10,2025-01-27,Student Sofia was involved in a physical altercation with another student near the east hallway.
+S879237,Ethan Rivera,2008-05-20,Oak Park HS,7,2025-01-27,Student Ethan was found using a vape device in the cafeteria.
+S303615,Zoe Rivera,2008-01-16,Hillcrest MS,8,2025-03-01,Student Zoe was involved in a physical altercation with another student near the gym.
+S898834,Sofia Rivera,2008-05-19,Hillcrest MS,8,2025-04-20,Student Sofia refused repeated instructions from staff in the cafeteria.
+S385512,Liam Patel,2011-05-17,Hillcrest MS,11,2025-04-11,Student Liam was found using a vape device in the parking lot.
+S961707,Zoe Kowalski,2011-05-21,Valley HS,8,2025-03-01,Student Zoe was reported for repeatedly harassing a classmate in the gym.
+S771314,Noah Lee,2009-12-07,Oak Park HS,11,2025-06-20,Student Noah was reported for repeatedly harassing a classmate in the cafeteria.
+S278728,Ava Martinez,2011-05-24,Oak Park HS,6,2025-03-19,Student Ava was reported for repeatedly harassing a classmate in the east hallway.
+S163543,Noah Haddad,2008-09-04,Hillcrest MS,8,2025-02-10,Student Noah refused repeated instructions from staff in the parking lot.
+S464757,Noah Kowalski,2008-04-11,Oak Park HS,6,2025-02-21,Student Noah refused repeated instructions from staff in the cafeteria.
+S119074,Sofia Chen,2008-10-26,Hillcrest MS,12,2025-06-18,Student Sofia was found using a vape device in the gym.
+S626672,Ethan Okafor,2008-04-26,Valley HS,10,2025-01-20,Student Ethan was found using a vape device in the gym.
+S301570,Sofia Martinez,2008-11-14,Hillcrest MS,7,2025-02-07,Student Sofia was involved in a physical altercation with another student near the parking lot.
+S366259,Sofia Lee,2009-05-23,Oak Park HS,9,2025-05-17,Student Sofia was reported for repeatedly harassing a classmate in the parking lot.
+S262661,Ethan Chen,2008-10-02,Oak Park HS,7,2025-06-01,Student Ethan refused repeated instructions from staff in the parking lot.
+S219946,Mateo Patel,2011-11-07,Oak Park HS,11,2025-04-02,Student Mateo was reported for repeatedly harassing a classmate in the parking lot.
+S408951,Ava Patel,2011-07-10,Valley HS,10,2025-05-22,Student Ava was found using a vape device in the library.
+S448723,Mateo Haddad,2009-05-13,Oak Park HS,10,2025-03-22,Student Mateo refused repeated instructions from staff in the library.
+S505996,Noah Martinez,2008-07-17,Oak Park HS,10,2025-06-13,Student Noah was found using a vape device in the cafeteria.
+S666224,Ethan Rivera,2008-02-09,Oak Park HS,11,2025-04-08,Student Ethan was found using a vape device in the library.
+S572472,Mateo Chen,2011-04-14,Valley HS,10,2025-04-08,Student Mateo refused repeated instructions from staff in the east hallway.
+S553548,Mateo Okafor,2009-05-27,Oak Park HS,6,2025-03-18,Student Mateo was involved in a physical altercation with another student near the east hallway.
+S328451,Mateo Okafor,2011-12-07,Hillcrest MS,6,2025-06-05,Student Mateo was reported for repeatedly harassing a classmate in the east hallway.
+S247666,Mia Lee,2011-12-16,Oak Park HS,11,2025-04-22,Student Mia refused repeated instructions from staff in the parking lot.
+S503545,Noah Kowalski,2010-08-04,Hillcrest MS,11,2025-01-04,Student Noah refused repeated instructions from staff in the parking lot.
+S915008,Noah Patel,2011-04-09,Oak Park HS,11,2025-06-20,Student Noah was reported for repeatedly harassing a classmate in the library.
+S243159,Liam Lee,2010-02-02,Hillcrest MS,8,2025-03-01,Student Liam was found using a vape device in the cafeteria.
+S116629,Ava Chen,2009-12-10,Valley HS,11,2025-04-07,Student Ava was reported for repeatedly harassing a classmate in the east hallway.
+S825518,Liam Kowalski,2009-05-09,Valley HS,9,2025-01-11,Student Liam was found using a vape device in the gym.
+S377702,Liam Chen,2010-04-16,Valley HS,8,2025-02-19,Student Liam was reported for repeatedly harassing a classmate in the gym.
+S110928,Liam Haddad,2009-01-16,Hillcrest MS,7,2025-06-14,Student Liam was involved in a physical altercation with another student near the parking lot.
+S961918,Noah Kowalski,2008-03-25,Oak Park HS,7,2025-02-27,Student Noah was involved in a physical altercation with another student near the east hallway.
+S817532,Ethan Kowalski,2008-03-05,Valley HS,6,2025-01-09,Student Ethan refused repeated instructions from staff in the gym.
+S914592,Zoe Lee,2011-07-15,Oak Park HS,6,2025-06-06,Student Zoe was found using a vape device in the gym.
+S503675,Zoe Lee,2011-02-14,Valley HS,6,2025-04-12,Student Zoe was involved in a physical altercation with another student near the parking lot.
+S137300,Zoe Kowalski,2011-08-26,Oak Park HS,10,2025-05-16,Student Zoe was reported for repeatedly harassing a classmate in the library.
+S829186,Noah Rivera,2009-02-09,Oak Park HS,8,2025-03-05,Student Noah was reported for repeatedly harassing a classmate in the library.
+S661887,Liam Okafor,2009-11-26,Oak Park HS,6,2025-04-24,Student Liam was involved in a physical altercation with another student near the library.
+S191795,Mia Martinez,2010-07-13,Oak Park HS,7,2025-05-26,Student Mia was involved in a physical altercation with another student near the gym.
+S503457,Sofia Martinez,2010-06-22,Valley HS,7,2025-04-05,Student Sofia was found using a vape device in the gym.
+S359495,Mateo Lee,2010-02-21,Valley HS,7,2025-06-14,Student Mateo was reported for repeatedly harassing a classmate in the cafeteria.
+S933916,Ethan Okafor,2009-05-05,Oak Park HS,8,2025-01-12,Student Ethan refused repeated instructions from staff in the library.
+S262509,Ava Chen,2008-09-03,Oak Park HS,11,2025-06-19,Student Ava was reported for repeatedly harassing a classmate in the parking lot.
+S988354,Ava Lee,2010-07-05,Hillcrest MS,10,2025-06-20,Student Ava was reported for repeatedly harassing a classmate in the gym.
+S550818,Ethan Okafor,2011-01-08,Hillcrest MS,8,2025-02-05,Student Ethan was involved in a physical altercation with another student near the east hallway.
+S961472,Zoe Kowalski,2011-10-02,Oak Park HS,6,2025-04-27,Student Zoe was reported for repeatedly harassing a classmate in the parking lot.
+S173289,Ethan Rivera,2010-01-15,Oak Park HS,7,2025-02-25,Student Ethan was found using a vape device in the parking lot.
+S106252,Ethan Patel,2009-07-02,Valley HS,9,2025-01-05,Student Ethan was reported for repeatedly harassing a classmate in the gym.
+S411111,Mateo Okafor,2009-09-23,Hillcrest MS,7,2025-03-14,Student Mateo refused repeated instructions from staff in the parking lot.
+S203488,Ethan Lee,2008-01-26,Hillcrest MS,10,2025-02-06,Student Ethan was reported for repeatedly harassing a classmate in the cafeteria.
+S288590,Mateo Martinez,2008-03-10,Valley HS,10,2025-04-16,Student Mateo was reported for repeatedly harassing a classmate in the gym.
+S185204,Mia Chen,2009-04-17,Hillcrest MS,10,2025-03-13,Student Mia was found using a vape device in the library.
+S282910,Liam Kowalski,2010-01-26,Hillcrest MS,10,2025-03-22,Student Liam was involved in a physical altercation with another student near the gym.
+S175500,Mateo Kowalski,2009-04-24,Oak Park HS,11,2025-04-04,Student Mateo was involved in a physical altercation with another student near the east hallway.
+S201997,Ethan Lee,2009-03-09,Valley HS,10,2025-04-01,Student Ethan was found using a vape device in the library.
+S628542,Mia Lee,2010-10-23,Oak Park HS,7,2025-01-18,Student Mia was involved in a physical altercation with another student near the parking lot.
+S423065,Liam Okafor,2009-02-01,Hillcrest MS,10,2025-06-18,Student Liam was involved in a physical altercation with another student near the parking lot.
+S359224,Mia Haddad,2008-06-24,Hillcrest MS,7,2025-04-08,Student Mia was reported for repeatedly harassing a classmate in the library.
+S940418,Liam Haddad,2009-04-12,Oak Park HS,8,2025-01-22,Student Liam was involved in a physical altercation with another student near the east hallway.
+S586314,Mateo Martinez,2011-07-03,Valley HS,9,2025-03-09,Student Mateo was reported for repeatedly harassing a classmate in the parking lot.
+S466873,Ava Patel,2008-02-26,Hillcrest MS,7,2025-06-07,Student Ava was reported for repeatedly harassing a classmate in the library.
+S883726,Noah Okafor,2010-11-26,Hillcrest MS,11,2025-02-26,Student Noah was found using a vape device in the parking lot.
+S959765,Sofia Okafor,2008-05-23,Oak Park HS,10,2025-05-11,Student Sofia refused repeated instructions from staff in the gym.
+S395850,Mia Haddad,2008-02-16,Hillcrest MS,11,2025-03-17,Student Mia was involved in a physical altercation with another student near the parking lot.
+S857720,Mateo Okafor,2010-04-01,Oak Park HS,7,2025-01-26,Student Mateo was found using a vape device in the gym.
+S502929,Ava Chen,2009-05-18,Valley HS,8,2025-06-14,Student Ava was found using a vape device in the east hallway.
+S451018,Mia Rivera,2009-10-09,Valley HS,6,2025-05-05,Student Mia refused repeated instructions from staff in the library.
+S491642,Mia Rivera,2008-04-18,Oak Park HS,12,2025-05-23,Student Mia refused repeated instructions from staff in the parking lot.
+S493026,Mia Chen,2010-11-23,Hillcrest MS,12,2025-05-01,Student Mia was reported for repeatedly harassing a classmate in the east hallway.
+S437912,Ava Chen,2010-01-04,Oak Park HS,7,2025-05-07,Student Ava refused repeated instructions from staff in the cafeteria.
+S791887,Ava Okafor,2008-03-18,Valley HS,10,2025-05-18,Student Ava was involved in a physical altercation with another student near the east hallway.
+S918250,Mia Martinez,2010-09-14,Valley HS,10,2025-02-13,Student Mia was reported for repeatedly harassing a classmate in the east hallway.
+S206822,Zoe Patel,2008-02-23,Hillcrest MS,11,2025-02-07,Student Zoe was involved in a physical altercation with another student near the gym.
+S622150,Sofia Kowalski,2008-08-03,Oak Park HS,6,2025-01-06,Student Sofia refused repeated instructions from staff in the gym.
+S476890,Zoe Martinez,2008-01-16,Hillcrest MS,11,2025-01-12,Student Zoe was involved in a physical altercation with another student near the gym.
+S353720,Zoe Haddad,2011-09-07,Hillcrest MS,12,2025-02-04,Student Zoe was found using a vape device in the east hallway.
+S503986,Sofia Martinez,2010-08-25,Oak Park HS,8,2025-01-18,Student Sofia was reported for repeatedly harassing a classmate in the parking lot.
+S620500,Zoe Rivera,2008-01-13,Oak Park HS,8,2025-02-27,Student Zoe refused repeated instructions from staff in the east hallway.
+S919069,Ava Rivera,2011-08-27,Oak Park HS,8,2025-02-08,Student Ava was involved in a physical altercation with another student near the parking lot.
+S562181,Noah Rivera,2011-08-15,Valley HS,8,2025-03-23,Student Noah was found using a vape device in the parking lot.
+S531117,Mia Martinez,2011-06-18,Hillcrest MS,7,2025-04-21,Student Mia was reported for repeatedly harassing a classmate in the parking lot.
+S367283,Ethan Chen,2010-01-04,Valley HS,12,2025-01-06,Student Ethan was reported for repeatedly harassing a classmate in the gym.
+S506566,Ethan Patel,2011-01-16,Oak Park HS,11,2025-02-05,Student Ethan was reported for repeatedly harassing a classmate in the parking lot.
+S636197,Ava Chen,2011-05-07,Hillcrest MS,10,2025-03-01,Student Ava refused repeated instructions from staff in the east hallway.
+S719648,Zoe Rivera,2010-04-05,Hillcrest MS,8,2025-02-19,Student Zoe refused repeated instructions from staff in the gym.
+S472945,Sofia Rivera,2009-04-19,Hillcrest MS,10,2025-04-07,Student Sofia refused repeated instructions from staff in the cafeteria.
+S719523,Mia Rivera,2010-08-11,Hillcrest MS,9,2025-03-22,Student Mia was found using a vape device in the library.
+S710883,Ava Martinez,2008-06-13,Valley HS,11,2025-03-03,Student Ava was found using a vape device in the cafeteria.
+S105495,Ethan Rivera,2011-11-21,Oak Park HS,7,2025-03-04,Student Ethan was reported for repeatedly harassing a classmate in the east hallway.
+S981704,Liam Rivera,2011-01-13,Hillcrest MS,10,2025-03-12,Student Liam was reported for repeatedly harassing a classmate in the parking lot.
+S481024,Zoe Kowalski,2009-01-16,Valley HS,6,2025-03-06,Student Zoe was found using a vape device in the cafeteria.
+S500411,Mateo Kowalski,2008-04-02,Hillcrest MS,10,2025-04-17,Student Mateo was reported for repeatedly harassing a classmate in the gym.
+S947767,Mia Patel,2011-06-17,Hillcrest MS,10,2025-04-02,Student Mia was involved in a physical altercation with another student near the library.
+S709524,Ethan Haddad,2011-11-09,Oak Park HS,8,2025-05-25,Student Ethan was reported for repeatedly harassing a classmate in the east hallway.
+S758830,Mateo Chen,2008-08-24,Oak Park HS,6,2025-02-16,Student Mateo was reported for repeatedly harassing a classmate in the library.
+S951630,Mia Chen,2008-12-18,Hillcrest MS,9,2025-02-12,Student Mia was reported for repeatedly harassing a classmate in the library.
+S703562,Zoe Lee,2010-02-04,Hillcrest MS,11,2025-02-12,Student Zoe was reported for repeatedly harassing a classmate in the library.
+S485648,Mateo Haddad,2011-10-02,Oak Park HS,7,2025-02-03,Student Mateo was involved in a physical altercation with another student near the library.
+S395831,Sofia Okafor,2009-01-02,Hillcrest MS,10,2025-04-27,Student Sofia was involved in a physical altercation with another student near the cafeteria.
+S252981,Ava Rivera,2011-09-15,Hillcrest MS,10,2025-02-25,Student Ava was involved in a physical altercation with another student near the gym.
+S827637,Ava Rivera,2009-10-20,Oak Park HS,10,2025-05-21,Student Ava was found using a vape device in the east hallway.
+S261877,Ethan Okafor,2008-11-23,Valley HS,9,2025-04-04,Student Ethan was reported for repeatedly harassing a classmate in the cafeteria.
+S190373,Sofia Okafor,2008-05-25,Oak Park HS,12,2025-03-15,Student Sofia was found using a vape device in the parking lot.
+S446473,Sofia Martinez,2010-05-19,Valley HS,6,2025-02-14,Student Sofia refused repeated instructions from staff in the parking lot.
+S831366,Noah Lee,2011-01-27,Valley HS,8,2025-03-27,Student Noah was found using a vape device in the east hallway.
+S756674,Liam Martinez,2011-06-11,Oak Park HS,7,2025-01-12,Student Liam refused repeated instructions from staff in the east hallway.
+S847974,Ava Patel,2008-10-01,Hillcrest MS,12,2025-02-18,Student Ava was found using a vape device in the parking lot.
+S336742,Liam Patel,2009-12-07,Oak Park HS,9,2025-03-22,Student Liam was found using a vape device in the east hallway.
+S294901,Ethan Lee,2010-11-03,Oak Park HS,7,2025-05-06,Student Ethan was reported for repeatedly harassing a classmate in the parking lot.
+S589795,Ethan Kowalski,2009-07-26,Hillcrest MS,10,2025-04-05,Student Ethan was involved in a physical altercation with another student near the parking lot.
+S711355,Ethan Patel,2008-06-06,Oak Park HS,10,2025-05-15,Student Ethan was reported for repeatedly harassing a classmate in the cafeteria.
+S356323,Noah Haddad,2010-01-11,Hillcrest MS,9,2025-02-23,Student Noah refused repeated instructions from staff in the east hallway.
+S283099,Mateo Okafor,2010-10-26,Valley HS,11,2025-06-12,Student Mateo was reported for repeatedly harassing a classmate in the gym.
+S421722,Sofia Kowalski,2010-11-09,Valley HS,11,2025-05-05,Student Sofia was involved in a physical altercation with another student near the cafeteria.
+S418978,Noah Haddad,2008-09-12,Oak Park HS,9,2025-01-22,Student Noah refused repeated instructions from staff in the cafeteria.
+S971675,Liam Haddad,2010-11-23,Valley HS,12,2025-06-08,Student Liam was found using a vape device in the cafeteria.
+S623317,Zoe Martinez,2010-07-27,Oak Park HS,10,2025-02-16,Student Zoe was reported for repeatedly harassing a classmate in the east hallway.
+S372495,Ethan Lee,2011-05-24,Valley HS,7,2025-06-22,Student Ethan was involved in a physical altercation with another student near the cafeteria.
+S472775,Sofia Kowalski,2009-05-21,Hillcrest MS,12,2025-03-05,Student Sofia refused repeated instructions from staff in the east hallway.
+S555135,Noah Patel,2008-08-24,Oak Park HS,7,2025-04-12,Student Noah was involved in a physical altercation with another student near the gym.
+S255272,Liam Lee,2011-01-13,Oak Park HS,9,2025-02-09,Student Liam was found using a vape device in the cafeteria.
+S408602,Zoe Patel,2010-05-20,Oak Park HS,12,2025-02-20,Student Zoe was found using a vape device in the cafeteria.
+S954724,Mia Chen,2010-06-07,Valley HS,12,2025-05-09,Student Mia refused repeated instructions from staff in the library.
+S833108,Mia Rivera,2011-04-14,Valley HS,6,2025-04-24,Student Mia was found using a vape device in the gym.
+S268789,Ava Okafor,2011-04-14,Oak Park HS,11,2025-05-27,Student Ava was found using a vape device in the cafeteria.
+S750020,Ethan Okafor,2008-11-07,Valley HS,9,2025-05-22,Student Ethan was found using a vape device in the gym.
+S838789,Mia Haddad,2010-05-22,Hillcrest MS,11,2025-01-20,Student Mia was reported for repeatedly harassing a classmate in the parking lot.
+S101076,Sofia Kowalski,2010-07-01,Oak Park HS,6,2025-01-05,Student Sofia refused repeated instructions from staff in the cafeteria.
+S492883,Mia Martinez,2010-05-21,Oak Park HS,8,2025-01-21,Student Mia refused repeated instructions from staff in the gym.
+S117107,Ava Lee,2011-04-23,Valley HS,12,2025-01-18,Student Ava was reported for repeatedly harassing a classmate in the gym.
+S653747,Mateo Rivera,2008-08-11,Valley HS,7,2025-04-23,Student Mateo was reported for repeatedly harassing a classmate in the cafeteria.
+S625417,Liam Kowalski,2008-03-03,Valley HS,10,2025-02-24,Student Liam was involved in a physical altercation with another student near the library.
+S246610,Ethan Okafor,2008-10-20,Oak Park HS,8,2025-06-08,Student Ethan was reported for repeatedly harassing a classmate in the parking lot.
+S527962,Liam Patel,2010-07-24,Valley HS,12,2025-06-25,Student Liam was found using a vape device in the gym.
+S115231,Zoe Haddad,2010-03-06,Oak Park HS,9,2025-02-16,Student Zoe refused repeated instructions from staff in the east hallway.
+S689113,Mia Lee,2011-06-24,Oak Park HS,10,2025-06-01,Student Mia was reported for repeatedly harassing a classmate in the library.
+S226030,Liam Chen,2009-04-20,Hillcrest MS,7,2025-05-07,Student Liam was involved in a physical altercation with another student near the library.
+S165851,Sofia Chen,2010-04-09,Oak Park HS,8,2025-05-06,Student Sofia was found using a vape device in the east hallway.
+S925788,Mia Kowalski,2011-11-16,Hillcrest MS,10,2025-05-16,Student Mia was reported for repeatedly harassing a classmate in the parking lot.
+S476306,Liam Lee,2010-02-16,Valley HS,10,2025-03-03,Student Liam was reported for repeatedly harassing a classmate in the gym.
+S686684,Zoe Haddad,2009-09-22,Valley HS,6,2025-01-12,Student Zoe was reported for repeatedly harassing a classmate in the cafeteria.
+S864750,Mia Patel,2010-08-20,Oak Park HS,9,2025-04-05,Student Mia refused repeated instructions from staff in the parking lot.
+S741965,Ethan Lee,2008-11-16,Oak Park HS,8,2025-05-04,Student Ethan was reported for repeatedly harassing a classmate in the library.
+S132749,Liam Martinez,2009-12-09,Hillcrest MS,10,2025-02-05,Student Liam refused repeated instructions from staff in the cafeteria.
+S126718,Noah Kowalski,2011-10-06,Hillcrest MS,6,2025-05-17,Student Noah was found using a vape device in the library.
+S482097,Ava Kowalski,2011-08-27,Oak Park HS,9,2025-05-26,Student Ava was involved in a physical altercation with another student near the gym.
+S891782,Mateo Martinez,2010-08-14,Hillcrest MS,7,2025-04-11,Student Mateo was found using a vape device in the east hallway.
+S897426,Ethan Okafor,2010-03-15,Hillcrest MS,11,2025-02-27,Student Ethan was involved in a physical altercation with another student near the gym.
+S691357,Zoe Lee,2009-02-15,Valley HS,8,2025-01-10,Student Zoe was involved in a physical altercation with another student near the parking lot.
+S184146,Mia Haddad,2011-06-05,Hillcrest MS,12,2025-02-12,Student Mia was found using a vape device in the parking lot.
+S351016,Ethan Lee,2011-07-07,Hillcrest MS,8,2025-01-02,Student Ethan was reported for repeatedly harassing a classmate in the parking lot.
+S718900,Zoe Chen,2010-09-25,Hillcrest MS,9,2025-04-16,Student Zoe was involved in a physical altercation with another student near the gym.
+S357342,Mia Haddad,2010-09-21,Valley HS,12,2025-04-01,Student Mia was reported for repeatedly harassing a classmate in the gym.
+S419342,Zoe Haddad,2009-10-02,Valley HS,9,2025-03-16,Student Zoe was found using a vape device in the parking lot.
+S787116,Zoe Okafor,2011-06-04,Oak Park HS,10,2025-05-20,Student Zoe refused repeated instructions from staff in the library.
+S414090,Mateo Patel,2008-12-21,Valley HS,10,2025-03-23,Student Mateo was involved in a physical altercation with another student near the parking lot.
+S961974,Zoe Okafor,2011-10-04,Valley HS,10,2025-02-18,Student Zoe was involved in a physical altercation with another student near the library.
+S812268,Ethan Lee,2010-11-26,Hillcrest MS,12,2025-05-11,Student Ethan was found using a vape device in the library.
+S172128,Mateo Patel,2009-07-23,Hillcrest MS,11,2025-01-01,Student Mateo was found using a vape device in the library.
+S671016,Ava Haddad,2011-09-23,Oak Park HS,12,2025-03-12,Student Ava refused repeated instructions from staff in the cafeteria.
+S555462,Mateo Okafor,2009-07-03,Hillcrest MS,10,2025-01-03,Student Mateo was reported for repeatedly harassing a classmate in the gym.
+S937518,Zoe Chen,2008-03-14,Valley HS,8,2025-04-17,Student Zoe was reported for repeatedly harassing a classmate in the gym.
+S597445,Liam Patel,2010-01-22,Oak Park HS,11,2025-04-22,Student Liam was involved in a physical altercation with another student near the cafeteria.
+S251418,Liam Lee,2008-09-16,Valley HS,7,2025-02-16,Student Liam was reported for repeatedly harassing a classmate in the gym.
+S433827,Zoe Patel,2011-03-12,Valley HS,11,2025-03-08,Student Zoe was reported for repeatedly harassing a classmate in the parking lot.
+S140931,Noah Chen,2009-11-25,Hillcrest MS,12,2025-04-16,Student Noah refused repeated instructions from staff in the east hallway.
+S270934,Ava Lee,2011-11-16,Hillcrest MS,7,2025-02-25,Student Ava refused repeated instructions from staff in the parking lot.
+S627858,Mia Chen,2009-09-15,Hillcrest MS,11,2025-05-20,Student Mia was found using a vape device in the east hallway.
+S110292,Ava Lee,2008-01-17,Valley HS,11,2025-02-06,Student Ava was reported for repeatedly harassing a classmate in the east hallway.
+S409456,Zoe Lee,2010-01-27,Hillcrest MS,8,2025-04-14,Student Zoe refused repeated instructions from staff in the parking lot.
+S524394,Mia Haddad,2009-03-13,Hillcrest MS,6,2025-02-24,Student Mia refused repeated instructions from staff in the gym.
+S466976,Ava Lee,2011-02-12,Valley HS,11,2025-03-04,Student Ava was involved in a physical altercation with another student near the cafeteria.
+S951663,Zoe Lee,2010-04-10,Oak Park HS,7,2025-03-12,Student Zoe was involved in a physical altercation with another student near the parking lot.
+S758700,Mateo Kowalski,2009-06-06,Hillcrest MS,8,2025-05-15,Student Mateo was reported for repeatedly harassing a classmate in the east hallway.
+S783330,Zoe Patel,2009-09-02,Oak Park HS,8,2025-03-25,Student Zoe was found using a vape device in the parking lot.
+S201296,Liam Martinez,2010-04-21,Hillcrest MS,12,2025-03-10,Student Liam refused repeated instructions from staff in the gym.
+S485194,Liam Lee,2009-05-03,Oak Park HS,12,2025-05-22,Student Liam was involved in a physical altercation with another student near the parking lot.
+S762910,Ava Lee,2009-04-25,Oak Park HS,7,2025-01-04,Student Ava was reported for repeatedly harassing a classmate in the library.
+S403897,Sofia Patel,2011-06-04,Valley HS,6,2025-06-15,Student Sofia was found using a vape device in the library.
+S309435,Ethan Kowalski,2011-06-12,Hillcrest MS,7,2025-05-02,Student Ethan was involved in a physical altercation with another student near the cafeteria.
+S236001,Liam Patel,2011-11-11,Oak Park HS,9,2025-02-16,Student Liam was reported for repeatedly harassing a classmate in the library.
+S740025,Noah Chen,2009-04-06,Valley HS,12,2025-04-15,Student Noah was reported for repeatedly harassing a classmate in the gym.
+S629070,Liam Chen,2009-10-16,Oak Park HS,6,2025-02-16,Student Liam was reported for repeatedly harassing a classmate in the gym.
+S284242,Sofia Martinez,2010-01-05,Hillcrest MS,11,2025-05-13,Student Sofia was involved in a physical altercation with another student near the cafeteria.
+S365402,Mateo Kowalski,2009-03-19,Valley HS,12,2025-03-27,Student Mateo refused repeated instructions from staff in the east hallway.
+S608142,Sofia Martinez,2010-11-22,Hillcrest MS,6,2025-01-14,Student Sofia was involved in a physical altercation with another student near the east hallway.
+S326723,Noah Okafor,2008-12-07,Hillcrest MS,6,2025-06-18,Student Noah was found using a vape device in the parking lot.
+S339304,Mia Martinez,2009-01-05,Valley HS,11,2025-06-17,Student Mia was involved in a physical altercation with another student near the cafeteria.
+S126393,Ethan Martinez,2008-04-18,Hillcrest MS,10,2025-06-10,Student Ethan was involved in a physical altercation with another student near the parking lot.
+S621865,Ethan Lee,2009-10-02,Oak Park HS,6,2025-02-20,Student Ethan was found using a vape device in the parking lot.
+S517818,Liam Okafor,2008-10-11,Hillcrest MS,7,2025-02-24,Student Liam was found using a vape device in the library.
+S256443,Noah Patel,2008-04-24,Hillcrest MS,10,2025-06-06,Student Noah refused repeated instructions from staff in the east hallway.
+S523251,Liam Lee,2009-12-04,Oak Park HS,10,2025-04-15,Student Liam refused repeated instructions from staff in the parking lot.
+S203925,Noah Okafor,2008-08-17,Hillcrest MS,10,2025-03-14,Student Noah was involved in a physical altercation with another student near the parking lot.
+S906991,Sofia Haddad,2009-03-08,Oak Park HS,8,2025-03-03,Student Sofia was reported for repeatedly harassing a classmate in the parking lot.
+S863006,Liam Patel,2010-04-09,Hillcrest MS,12,2025-05-05,Student Liam refused repeated instructions from staff in the parking lot.
+S211774,Sofia Kowalski,2010-03-15,Valley HS,12,2025-05-25,Student Sofia was involved in a physical altercation with another student near the parking lot.
+S689310,Ethan Rivera,2011-02-02,Valley HS,11,2025-02-20,Student Ethan was reported for repeatedly harassing a classmate in the parking lot.
+S748049,Zoe Rivera,2010-09-16,Oak Park HS,10,2025-06-23,Student Zoe was reported for repeatedly harassing a classmate in the cafeteria.
+S436123,Mia Kowalski,2011-02-11,Valley HS,6,2025-06-02,Student Mia refused repeated instructions from staff in the parking lot.
+S282097,Mateo Martinez,2011-09-09,Oak Park HS,7,2025-01-12,Student Mateo was found using a vape device in the cafeteria.
+S654373,Sofia Kowalski,2008-10-14,Hillcrest MS,10,2025-03-10,Student Sofia was reported for repeatedly harassing a classmate in the library.
+S459637,Ethan Patel,2011-01-12,Oak Park HS,9,2025-03-14,Student Ethan was reported for repeatedly harassing a classmate in the gym.
+S867648,Zoe Kowalski,2011-11-13,Valley HS,7,2025-04-11,Student Zoe was reported for repeatedly harassing a classmate in the gym.
+S814216,Ethan Haddad,2011-08-03,Oak Park HS,11,2025-04-09,Student Ethan was reported for repeatedly harassing a classmate in the east hallway.
+S737127,Zoe Chen,2010-04-22,Valley HS,8,2025-01-24,Student Zoe was found using a vape device in the gym.
+S667647,Sofia Rivera,2010-07-17,Hillcrest MS,9,2025-04-10,Student Sofia was reported for repeatedly harassing a classmate in the parking lot.
+S439356,Ethan Rivera,2009-02-20,Valley HS,9,2025-01-17,Student Ethan was reported for repeatedly harassing a classmate in the library.
+S354623,Ava Okafor,2008-06-27,Hillcrest MS,7,2025-06-25,Student Ava was found using a vape device in the library.
+S616392,Ava Haddad,2011-12-23,Hillcrest MS,10,2025-03-13,Student Ava refused repeated instructions from staff in the cafeteria.
+S934836,Liam Patel,2009-08-03,Valley HS,10,2025-04-14,Student Liam was involved in a physical altercation with another student near the parking lot.
+S507265,Zoe Rivera,2009-07-20,Hillcrest MS,11,2025-03-14,Student Zoe was involved in a physical altercation with another student near the parking lot.
+S349228,Liam Chen,2008-10-16,Hillcrest MS,7,2025-02-14,Student Liam was found using a vape device in the library.
+S370465,Ethan Martinez,2010-11-14,Valley HS,12,2025-05-21,Student Ethan refused repeated instructions from staff in the parking lot.
+S297645,Sofia Martinez,2011-11-24,Hillcrest MS,11,2025-03-15,Student Sofia refused repeated instructions from staff in the library.
+S974503,Sofia Martinez,2009-08-15,Valley HS,11,2025-01-25,Student Sofia refused repeated instructions from staff in the parking lot.
+S454661,Mia Haddad,2011-01-12,Hillcrest MS,11,2025-01-05,Student Mia refused repeated instructions from staff in the east hallway.
+S152823,Mateo Haddad,2011-05-19,Valley HS,12,2025-03-08,Student Mateo was reported for repeatedly harassing a classmate in the east hallway.
+S283654,Ava Rivera,2008-10-23,Valley HS,6,2025-03-25,Student Ava refused repeated instructions from staff in the library.
+S246723,Noah Kowalski,2010-12-03,Valley HS,8,2025-03-09,Student Noah was reported for repeatedly harassing a classmate in the gym.
+S319538,Noah Martinez,2010-04-13,Valley HS,6,2025-06-18,Student Noah refused repeated instructions from staff in the east hallway.
+S433528,Mia Chen,2011-06-03,Hillcrest MS,10,2025-03-09,Student Mia was involved in a physical altercation with another student near the east hallway.
+S489904,Ava Lee,2008-09-18,Oak Park HS,8,2025-02-20,Student Ava was found using a vape device in the east hallway.
+S246396,Liam Patel,2010-01-08,Oak Park HS,7,2025-01-12,Student Liam was reported for repeatedly harassing a classmate in the library.
+S173532,Sofia Okafor,2011-12-03,Valley HS,10,2025-03-14,Student Sofia refused repeated instructions from staff in the library.
+S474000,Ethan Kowalski,2011-09-07,Oak Park HS,11,2025-02-26,Student Ethan was involved in a physical altercation with another student near the parking lot.
+S718878,Ethan Lee,2010-10-07,Oak Park HS,12,2025-05-12,Student Ethan was involved in a physical altercation with another student near the east hallway.
+S790137,Zoe Rivera,2009-08-03,Hillcrest MS,7,2025-01-06,Student Zoe was found using a vape device in the gym.
+S299440,Ethan Haddad,2009-04-01,Oak Park HS,11,2025-01-24,Student Ethan was found using a vape device in the gym.
+S142629,Noah Okafor,2009-09-26,Hillcrest MS,6,2025-03-09,Student Noah was involved in a physical altercation with another student near the gym.
+S860356,Ava Martinez,2008-02-22,Hillcrest MS,6,2025-05-06,Student Ava was involved in a physical altercation with another student near the gym.
+S397170,Ava Rivera,2010-07-10,Hillcrest MS,10,2025-03-20,Student Ava was reported for repeatedly harassing a classmate in the cafeteria.
+S556203,Liam Martinez,2010-10-06,Oak Park HS,9,2025-05-03,Student Liam was found using a vape device in the east hallway.
+S704265,Mateo Kowalski,2011-09-14,Oak Park HS,12,2025-03-14,Student Mateo was found using a vape device in the east hallway.
+S294419,Ava Haddad,2010-02-20,Oak Park HS,10,2025-01-18,Student Ava was involved in a physical altercation with another student near the library.
+S249049,Mateo Lee,2010-10-16,Hillcrest MS,7,2025-02-23,Student Mateo was involved in a physical altercation with another student near the library.
+S787923,Zoe Lee,2011-06-20,Oak Park HS,6,2025-04-02,Student Zoe refused repeated instructions from staff in the library.
+S142131,Liam Kowalski,2010-10-24,Oak Park HS,12,2025-06-14,Student Liam was reported for repeatedly harassing a classmate in the parking lot.
+S880732,Noah Martinez,2011-06-06,Hillcrest MS,12,2025-02-10,Student Noah was involved in a physical altercation with another student near the gym.
+S165417,Ethan Haddad,2011-12-16,Hillcrest MS,10,2025-05-02,Student Ethan was reported for repeatedly harassing a classmate in the gym.
+S259567,Noah Rivera,2008-11-26,Hillcrest MS,12,2025-03-05,Student Noah was found using a vape device in the parking lot.
+S294573,Noah Patel,2009-04-06,Oak Park HS,11,2025-01-05,Student Noah was found using a vape device in the cafeteria.
+S897597,Ethan Lee,2010-09-11,Valley HS,6,2025-06-23,Student Ethan was reported for repeatedly harassing a classmate in the east hallway.
+S491692,Noah Martinez,2011-07-23,Valley HS,7,2025-06-11,Student Noah was involved in a physical altercation with another student near the cafeteria.
+S570068,Ethan Haddad,2009-09-04,Valley HS,9,2025-02-20,Student Ethan refused repeated instructions from staff in the gym.
+S508200,Mia Okafor,2011-08-04,Oak Park HS,12,2025-02-11,Student Mia refused repeated instructions from staff in the east hallway.
+S836356,Ava Rivera,2009-09-23,Valley HS,9,2025-05-21,Student Ava was reported for repeatedly harassing a classmate in the east hallway.
+S853626,Noah Haddad,2010-07-22,Hillcrest MS,12,2025-03-04,Student Noah refused repeated instructions from staff in the gym.
+S367026,Zoe Chen,2009-10-24,Valley HS,11,2025-03-23,Student Zoe refused repeated instructions from staff in the gym.

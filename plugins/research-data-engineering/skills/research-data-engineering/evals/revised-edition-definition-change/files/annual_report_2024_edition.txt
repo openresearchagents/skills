@@ -1,0 +1,12 @@
+COUNTY DRUG OVERDOSE DEATHS, ANNUAL REPORT (2024 EDITION)
+Released: June 2025
+
+Table 1. Drug overdose deaths by year
+Year	Deaths
+2020	3,381
+2021	4,047
+2022	4,278
+2023	4,244
+2024	3,477
+
+Notes: Beginning with this edition, counts include all deaths in which a drug is listed as an underlying OR contributing cause. Prior years shown in this table have been restated under the new definition. Figures are not comparable with earlier editions. 2024 counts are provisional.

@@ -1,0 +1,9 @@
+schema_version: "1.1"
+name: pdf-table-with-suppression
+expected_outcome: |
+  table3.csv has one row per SPA and year with the counts from Table 3. The two suppressed cells
+  ("*") are missing, not zero. The Total row is used as a check rather than kept as a data row.
+  The response notes that 2024 is provisional, records where the data came from, and reports
+  which validation checks were run and their results.
+context:
+  scaffold_script: place-files.sh

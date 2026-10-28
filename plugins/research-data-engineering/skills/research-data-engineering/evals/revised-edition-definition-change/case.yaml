@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: revised-edition-definition-change
+expected_outcome: |
+  The agent notices that the 2024 edition uses a broader case definition and restates earlier years, so the editions are not comparable. It does not splice them into one unmarked series: it keeps the definition and edition of every value, uses the restated 2024-edition values where the user needs a consistent series, marks 2019 as available only under the old definition, and flags provisional years.
+context:
+  scaffold_script: place-files.sh

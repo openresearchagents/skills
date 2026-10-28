@@ -1,0 +1,16 @@
+region,year,visits
+North,2022,124
+North,2023,139
+North,2024,251
+Central,2022,262
+Central,2023,85
+Central,2024,213
+South,2022,396
+South,2023,379
+South,2024,351
+East,2022,277
+East,2023,152
+East,2024,392
+West,2022,110
+West,2023,354
+West,2024,266

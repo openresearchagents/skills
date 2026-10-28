@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: economic-vintages-nowcast
+expected_outcome: |
+  Each feature value in features.csv is one that was published by the forecast origin (end of the origin month). Unemployment comes from the vintages file: at origin M the newest value is the preliminary release for M-1 (revised values only for M-2 and earlier). Permits for month m are released on day 11 of m+2, so at origin M the newest is M-2. The response explains why unemployment_latest.csv is not used, and reports a check that no release date is after its origin.
+context:
+  scaffold_script: place-files.sh

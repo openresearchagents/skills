@@ -1,0 +1,14 @@
+{
+  "name": "open-research-agents",
+  "description": "Agent skills for careful, verifiable research work",
+  "owner": {
+    "name": "open-research-agents"
+  },
+  "plugins": [
+    {
+      "name": "research-data-engineering",
+      "source": "./plugins/research-data-engineering",
+      "description": "Build and validate research datasets with an agent: provenance, PDF extraction, publication dates, and keeping protected records out of the agent's context. Includes a public-health and surveillance data module."
+    }
+  ]
+}

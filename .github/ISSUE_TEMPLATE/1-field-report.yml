@@ -1,0 +1,40 @@
+name: Field report
+description: You used a skill on a real task. Tell us what helped and what did not.
+labels: [field-report]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **Do not paste data, file contents, transcripts or anything that could identify a person.** Describe the task in general terms.
+  - type: dropdown
+    id: skill
+    attributes:
+      label: Skill
+      options: [research-data-engineering]
+    validations: {required: true}
+  - type: input
+    id: agent
+    attributes:
+      label: Agent and model
+      placeholder: e.g. Claude Code with Opus, Codex CLI, Cursor
+    validations: {required: true}
+  - type: textarea
+    id: task
+    attributes:
+      label: What were you doing?
+      description: Kind of data (public portal, PDF report, record-level under a DUA...), and what you asked the agent to do.
+    validations: {required: true}
+  - type: textarea
+    id: helped
+    attributes:
+      label: What did the skill change for the better?
+  - type: textarea
+    id: missed
+    attributes:
+      label: What went wrong, or what did the skill miss?
+  - type: dropdown
+    id: privacy
+    attributes:
+      label: Did the agent ever see data it should not have?
+      options: ["No", "Yes", "Not sure", "Not applicable (public data only)"]
+    validations: {required: true}

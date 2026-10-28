@@ -1,0 +1,11 @@
+schema_version: "1.1"
+name: quarterly-panel-from-pulls
+expected_outcome: |
+  The agent reconciles both pulls against the published annual totals, finds that the older pull
+  overstates 2024 by about 18% while the newer pull matches, and uses the newer pull for
+  overlapping periods rather than summing or silently preferring the older one. The homeless
+  count is joined by release date (a January count released in June is not available in Q1 or Q2
+  of that year). Missing 2021 counts are handled explicitly. Late-2025 months are flagged as likely
+  incomplete. The response reports provenance and the validation checks.
+context:
+  scaffold_script: place-files.sh

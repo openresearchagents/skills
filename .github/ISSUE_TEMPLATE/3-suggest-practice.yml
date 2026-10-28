@@ -1,0 +1,20 @@
+name: Suggest a practice or a new skill
+description: A validation technique, data source pattern, privacy control or whole workflow we should cover.
+labels: [suggestion]
+body:
+  - type: textarea
+    id: idea
+    attributes:
+      label: The practice
+      description: What should agents do, and when?
+    validations: {required: true}
+  - type: textarea
+    id: why
+    attributes:
+      label: Why it matters
+      description: A failure it prevents, ideally one you have seen. No data or identifying details.
+    validations: {required: true}
+  - type: textarea
+    id: refs
+    attributes:
+      label: References
